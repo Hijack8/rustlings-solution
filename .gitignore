@@ -16,3 +16,28 @@ public/
 
 # Local Netlify folder
 .netlify
+
+.all-contributorsrc
+.devcontainer/
+.editorconfig
+.envrc
+.github/
+.gitpod.yml
+.markdownlint.yml
+.vscode/
+AUTHORS.md
+CHANGELOG.md
+CONTRIBUTING.md
+Cargo.lock
+Cargo.toml
+LICENSE
+README-ref.md
+flake.lock
+flake.nix
+info.toml
+install.ps1
+install.sh
+oranda.json
+shell.nix
+src/
+tests/
