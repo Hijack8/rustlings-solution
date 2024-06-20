@@ -1,4 +1,5 @@
 ## rustlings-solution
 
-rustlings 5.6.1
+My solution to [rustlings](https://github.com/rust-lang/rustlings) exercise.
+
 
